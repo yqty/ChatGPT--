@@ -1,4 +1,4 @@
-# ChatGPT-plant-your-ideas
+# 展示你的想法为mindmap
 ## make mindmap from text
 
 ![image01](https://github.com/yqty/ChatGPT--mindemap/blob/main/images/image-01.png)
