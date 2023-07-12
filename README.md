@@ -1,7 +1,7 @@
 # ChatGPT-plant-your-ideas
 ## make mindmap from text
 
-![image01]([https://github.com/yqty/main/images/image-01.png)
+![image01](https://github.com/yqty/main/images/image-01.png)
 ![image02](https://github.com/yqty/main/images/image-02.png)
 
 ## start procedure
